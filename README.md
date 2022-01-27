@@ -15,6 +15,7 @@ development very much.
 - [Bill Generator with Python](https://github.com/codewithlaksh/bill-generator-with-python)
 - [Website Using HTML and JavaScript](https://github.com/codewithlaksh/website-using-html-and-javascript)
 - [Django & Jquery Todos-List App](https://github.com/codewithlaksh/django-and-jquery-todos-list-app)
+- [Basic Angular Website](https://github.com/codewithlaksh/my-angular-website)
 
 ### Follow Me on Github
 [@CodeWithLaksh](https://github.com/codewithlaksh)
