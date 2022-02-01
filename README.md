@@ -18,6 +18,7 @@ development very much.
 - [Basic Angular Website](https://github.com/codewithlaksh/my-angular-website)
 - [Todos List Using Angular](https://github.com/codewithlaksh/angular-todos-list)
 - [iCoder Blog Using DjangoRestFramework & ReactJS](https://github.com/codewithlaksh/icoder-blog-djangorestframework-react)
+- [Task App Using DjangoRestFramework & ReactJS](https://github.com/codewithlaksh/task-app-djangorestframework-react)
 
 ### Follow Me on Github
 [@CodeWithLaksh](https://github.com/codewithlaksh)
