@@ -20,6 +20,7 @@ development very much.
 - [iCoder Blog Using DjangoRestFramework & ReactJS](https://github.com/codewithlaksh/icoder-blog-djangorestframework-react)
 - [Task App Using DjangoRestFramework & ReactJS](https://github.com/codewithlaksh/task-app-djangorestframework-react)
 - [iNotebook Using ReactJS](https://github.com/codewithlaksh/ReactJS-iNotebook)
+- [Django Single Page Todos-List App](https://github.com/codewithlaksh/django-singlePage-todos-application)
 
 ### Follow Me on Github
 [@CodeWithLaksh](https://github.com/codewithlaksh)
