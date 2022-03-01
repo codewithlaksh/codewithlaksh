@@ -21,6 +21,7 @@ development very much.
 - [Task App Using DjangoRestFramework & ReactJS](https://github.com/codewithlaksh/task-app-djangorestframework-react)
 - [iNotebook Using ReactJS](https://github.com/codewithlaksh/ReactJS-iNotebook)
 - [Django Single Page Todos-List App](https://github.com/codewithlaksh/django-singlePage-todos-application)
+- [TextUtils App Using JavaScript](https://github.com/codewithlaksh/javascript-textutils-app)
 
 ### Follow Me on Github
 [@CodeWithLaksh](https://github.com/codewithlaksh)
