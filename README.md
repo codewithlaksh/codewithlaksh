@@ -23,6 +23,7 @@ development very much.
 - [Django Single Page Todos-List App](https://github.com/codewithlaksh/django-singlePage-todos-application)
 - [TextUtils App Using JavaScript](https://github.com/codewithlaksh/javascript-textutils-app)
 - [Color Picker Using JavaScript](https://github.com/codewithlaksh/javascript-color-picker)
+- [Django and Ajax Notes app](https://github.com/codewithlaksh/django-ajax-notes-app)
 
 ### Follow Me on Github
 [@CodeWithLaksh](https://github.com/codewithlaksh)
