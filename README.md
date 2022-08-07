@@ -26,6 +26,9 @@ development very much.
 - [TextUtils App Using JavaScript](https://github.com/codewithlaksh/javascript-textutils-app)
 - [Color Picker Using JavaScript](https://github.com/codewithlaksh/javascript-color-picker)
 - [Django and Ajax Notes app](https://github.com/codewithlaksh/django-ajax-notes-app)
+- [Calculator using html, css and javascript](https://github.com/codewithlaksh/calculator-using-html-css-and-javascript)
+- [Even or odd numbers detector using python](https://github.com/codewithlaksh/even_or_odd_python)
+- [Expressjs Blog App](https://github.com/codewithlaksh/express-blog-app)
 
 ### Follow Me on Github
 [@CodeWithLaksh](https://github.com/codewithlaksh)
