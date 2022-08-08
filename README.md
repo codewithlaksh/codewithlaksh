@@ -29,6 +29,7 @@ development very much.
 - [Calculator using html, css and javascript](https://github.com/codewithlaksh/calculator-using-html-css-and-javascript)
 - [Even or odd numbers detector using python](https://github.com/codewithlaksh/even_or_odd_python)
 - [Expressjs Blog App](https://github.com/codewithlaksh/express-blog-app)
+- [Simple JavaScript Todos App](https://github.com/codewithlaksh/javascript-todos-app)
 
 ### Follow Me on Github
 [@CodeWithLaksh](https://github.com/codewithlaksh)
