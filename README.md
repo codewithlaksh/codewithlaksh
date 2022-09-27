@@ -30,6 +30,8 @@ development very much.
 - [Even or odd numbers detector using python](https://github.com/codewithlaksh/even_or_odd_python)
 - [Expressjs Blog App](https://github.com/codewithlaksh/express-blog-app)
 - [Simple JavaScript Todos App](https://github.com/codewithlaksh/javascript-todos-app)
+- [JavaScript Image Editor](https://github.com/codewithlaksh/javascript-image-editor)
+- [NextJS Blog Website](https://github.com/codewithlaksh/nextjs-blog-website)
 
 ### Follow Me on Github
 [@CodeWithLaksh](https://github.com/codewithlaksh)
