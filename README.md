@@ -6,6 +6,8 @@
 I am a passionate python programmer and I love python and web 
 development very much.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithlaksh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Some of my projects
 - [Flask Registration System](https://github.com/codewithlaksh/flask-registration-system)
 - [Coding Thunder Flask Blog](https://github.com/codewithlaksh/codingthunder-flask-blog)
