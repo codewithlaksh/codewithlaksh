@@ -1,5 +1,8 @@
 ## Hello World! I am CodeWithLaksh
 
+## Hacktoberfest badges
+[![@codewithlaksh's Holopin board](https://holopin.me/codewithlaksh)](https://holopin.io/@codewithlaksh)
+
 ## View my gists
 - [CodeWithLaksh GitHub Gists](https://gist.github.com/codewithlaksh)
 
