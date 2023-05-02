@@ -37,6 +37,8 @@ development very much.
 - [Simple JavaScript Todos App](https://github.com/codewithlaksh/javascript-todos-app)
 - [JavaScript Image Editor](https://github.com/codewithlaksh/javascript-image-editor)
 - [NextJS Blog Website](https://github.com/codewithlaksh/nextjs-blog-website)
+- [WeatherX - Weather App](https://github.com/codewithlaksh/WeatherX)
+- [WikiScrap - Wikipedia Data Scrapper](https://github.com/codewithlaksh/WikiScrap)
 
 ### Follow Me on Github
 [@CodeWithLaksh](https://github.com/codewithlaksh)
