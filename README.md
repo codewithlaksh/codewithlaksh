@@ -3,7 +3,7 @@
 ## Hacktoberfest badges
 [![@codewithlaksh's Holopin board](https://holopin.me/codewithlaksh)](https://holopin.io/@codewithlaksh)
 
-<a href="https://app.daily.dev/laksh2552"><img src="https://api.daily.dev/devcards/e97abca690bb4051b73b12eb0d146c46.png?r=i4j" width="400" alt="Lakshyaraj Dash X-D 25's Dev Card"/></a>
+<a href="https://app.daily.dev/laksh2552"><img src="https://api.daily.dev/devcards/e97abca690bb4051b73b12eb0d146c46.png?r=vc5" width="400" alt="Lakshyaraj Dash's Dev Card"/></a>
 
 ## View my gists
 - [CodeWithLaksh GitHub Gists](https://gist.github.com/codewithlaksh)
